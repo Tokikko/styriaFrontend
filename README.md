@@ -1,7 +1,6 @@
 ## Prerequisites
 
-To run this app you need to have installed both node.js
-You can find more information about it on the official site:
+
 https://nodejs.org/en/
 
 ## Instalation
