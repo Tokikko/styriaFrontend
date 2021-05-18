@@ -30,6 +30,6 @@ http://localhost:3000/
 
 To view the site 
 
-*Just make sure that the server(styriaBackend) is running or the app will look quite empty
+*Just make sure that the server(styriaBackend) is running
 
-*Also i am quite lazy and bad ad design, so the app is cool looking as it is :')
+
